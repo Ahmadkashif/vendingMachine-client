@@ -3,7 +3,7 @@ import React from "react";
 const Buyer: React.FC = () => {
     return (
         <div>
-            
+
         </div>
     );
 };
